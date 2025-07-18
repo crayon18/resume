@@ -18,7 +18,7 @@ coverage
 /cypress/screenshots/
 
 # Editor directories and files
-resume/.vscode/settings.json
+.vscode/settings.json
 !.vscode/extensions.json
 .idea
 *.suo
