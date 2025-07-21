@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="338283ca-05fe-43f4-89ce-16bb2b90303a" name="Changes" comment="dist">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/index-2deb0ca4.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/index-33d78a5f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-    </list>
+    <list default="true" id="338283ca-05fe-43f4-89ce-16bb2b90303a" name="Changes" comment="template test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1752829546821</updated>
       <workItem from="1752829550097" duration="1043000" />
-      <workItem from="1753099303046" duration="828000" />
+      <workItem from="1753099303046" duration="1015000" />
     </task>
     <task id="LOCAL-00001" summary="config 수정">
       <created>1752829569812</created>
@@ -90,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1752830522186</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="template test">
+      <created>1753117171432</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1753117171432</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +111,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="config 수정" />
     <MESSAGE value="dist" />
-    <option name="LAST_COMMIT_MESSAGE" value="dist" />
+    <MESSAGE value="template test" />
+    <option name="LAST_COMMIT_MESSAGE" value="template test" />
   </component>
 </project>
