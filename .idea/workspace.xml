@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="338283ca-05fe-43f4-89ce-16bb2b90303a" name="Changes" comment="dist" />
+    <list default="true" id="338283ca-05fe-43f4-89ce-16bb2b90303a" name="Changes" comment="dist">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index-2deb0ca4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index-33d78a5f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/msj/Downloads/resume2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -37,6 +44,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\resume2\resume" />
     </key>
@@ -50,6 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1752829546821</updated>
       <workItem from="1752829550097" duration="1043000" />
+      <workItem from="1753099303046" duration="828000" />
     </task>
     <task id="LOCAL-00001" summary="config 수정">
       <created>1752829569812</created>
